@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kosaladeshan" alt="kosaladeshan" /></a> </p>
 
-- 🌱 I’m currently learning **Azure**
-
 - 💬 Ask me about **Linux/Arduino**
 
 - 📫 How to reach me **kosaladeshan123@gmail.com**
